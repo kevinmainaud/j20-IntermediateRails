@@ -1,9 +1,9 @@
-Ruby on Rails / intermediate exercice / Heroku deployment
+Ruby on Rails / intermediate exercice 
 
 Objective :
 
-Creating a Rails application based on the CRUD method
-Deploying the application on Heroku
+1.Creating a Rails application based on the CRUD method
+
 
 
 Follow me on Github : https://github.com/kevinmainaud
