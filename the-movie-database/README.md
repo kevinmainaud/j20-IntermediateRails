@@ -5,6 +5,10 @@ Objective :
 Creating a Rails application based on the CRUD method
 Deploying the application on Heroku
 
+
+Follow me on Github : https://github.com/kevinmainaud
+
+
 The exercice :
 
 Do you want to create the future imdb website ? Follow this repository and learn how to create a movie database.
@@ -51,6 +55,5 @@ Forms
 
 http://guides.rubyonrails.org/form_helpers.html
 
-Follow me on Github : https://github.com/kevinmainaud
 
 From KM with love
